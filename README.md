@@ -1,4 +1,4 @@
-<b>Logistic Regression - Machine Learning</b><br>
+<h3>Logistic Regression - Machine Learning</h3><br>
 
 
 <b>Objective</b><br>
