@@ -1,5 +1,5 @@
-Logistic Regression - Machine Learning
-===============
+<b>Logistic Regression - Machine Learning</b><br>
+
 
 <b>Objective</b><br>
 Develop a machine learning algorithm, logistic regression in python without using Octave or Matlab.
