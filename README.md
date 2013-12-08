@@ -24,13 +24,13 @@ The following are the key steps in logistic regression. Using the same, I made a
 <b>Coding Instructions</b><br>
 There is only 1 script of logistic regression and a dataset of university students and scores provided.<br>
 <b>Steps:</b><br>
-1. You can download the zip file and make sure you have scipy, matplotlib, numpy, pylab and python installed.
-2. You can install them all with this:
+1. You can download the zip file and make sure you have scipy, matplotlib, numpy, pylab and python installed.<br>
+2. You can install them all with this:<br>
 sudo apt-get install python-numpy python-scipy python-matplotlib ipython ipython-notebook pyt
-hon-pandas python-sympy python-nose
-3. Once downloaded, directly run python log.py which would help you to get the probabilities.
-4. A graph will open as an output and the result.
-
+hon-pandas python-sympy python-nose<br>
+3. Once downloaded, directly run python log.py which would help you to get the probabilities.<br>
+4. A graph will open as an output and the result.<br>
+<br>
 I am still advancing the algorithm to make it a better solution.
 
 
