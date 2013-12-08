@@ -1,7 +1,7 @@
 Logistic Regression - Machine Learning
 ===============
 
-Objective
+<b>Objective
 Develop a machine learning algorithm, logistic regression in python without using Octave or Matlab.
 Logistic Regression is a type of regression that estimates the probability of an event occurred. For
 example, an email is spam or not, sentiment is positive or negative etc.
